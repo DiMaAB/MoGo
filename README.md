@@ -1,1 +1,1 @@
-https://dimaab.github.io/MoGo/MoGo/build/
+https://dimaab.github.io/MoGo/build/
